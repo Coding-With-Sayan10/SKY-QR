@@ -1,0 +1,8 @@
+ 
+
+     #Dependencies
+
+
+    pip install qrcode[pil]
+    pip install pillow
+    pip install validators
