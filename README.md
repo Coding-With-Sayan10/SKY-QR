@@ -8,12 +8,12 @@ A lightweight Python script to convert URLs into QR codes. Saves output as `Qr-P
 - Interactive URL input
 - URL validation
 - Customizable QR size/error correction
-- Termux-friendly (with preview option)
+- Termux-friendly , Linux , Windows, MacOs (with preview option)
 
 ## Installation
-1. Clone or create the directory: `mkdir Sky-Qr && cd Sky-Qr`
+1. Clone : `https://github.com/Coding-With-Sayan10/SKY-QR.git`
 2. Install deps: `pip install -r requirements.txt`
-3. Run: `python SkyQr.py`
+3. Run: `cd SKY-QR` : `python SkyQr.py`
 
 ## Usage
 - Enter a valid URL when prompted.
